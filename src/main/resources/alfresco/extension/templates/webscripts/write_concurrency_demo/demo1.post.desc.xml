@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>Write Concurrency Demo 1</shortname>
+    <url>/write_concurrency_demo/demo1</url>
+    <authentication>user</authentication>
+    <format default="json"></format>
+    <lifecycle>sample</lifecycle>
+    <transaction>required</transaction>
+</webscript>
